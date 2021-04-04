@@ -1,4 +1,4 @@
-# Sort Application made with TypeScript
+# Stats Football Application made with TypeScript
 
 This application uses [Nodemon](https://www.npmjs.com/package/nodemon) and [Concurrently](https://www.npmjs.com/package/concurrently) dependencies.
 
